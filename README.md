@@ -25,3 +25,11 @@ To make deployment easy, there are two bash files that are available: `build.sh`
 31183.
 
 The application should now be fully accessible!
+
+## Other Docs
+
+See CICD.md for thoughts on CI/CD.
+
+## Changes and Other Notes:
+
+Flask was updated to version 2.0.3.
